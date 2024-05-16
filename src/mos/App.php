@@ -8,7 +8,7 @@ class App
         echo 'Hello MosPHP!';
     }
     public static function test(){
-        echo 'test MosPHP!';
+        echo 'test MosPHP framework';
     }
 
 }
