@@ -1,6 +1,6 @@
 <?php
 
-namespace mos;
+namespace mos\core;
 
 class App
 {
@@ -8,7 +8,7 @@ class App
         echo 'Hello MosPHP!';
     }
     public static function test(){
-        echo 'test MosPHP framework';
+        echo 'MosPHP framework';
     }
 
 }

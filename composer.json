@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "mos\\": "src/mos/"
+      "mos\\core\\": "src/core/"
     },
     "files": [
       "src/helper.php"
